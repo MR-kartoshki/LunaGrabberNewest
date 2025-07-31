@@ -8,7 +8,7 @@ Newest version of LunaGrabber by smug
 
 
 
-&nbsp;   Discord Info
+&nbsp;1.   Discord Info
 
 &nbsp;         Token
 
@@ -28,7 +28,7 @@ Newest version of LunaGrabber by smug
 
 
 
-&nbsp;   Browser Data
+&nbsp;2.   Browser Data
 
 &nbsp;         Cookies
 
@@ -40,7 +40,7 @@ Newest version of LunaGrabber by smug
 
 
 
-&nbsp;   Game Data
+&nbsp;3.   Game Data
 
 &nbsp;         Minecraft Session Info
 
@@ -48,13 +48,13 @@ Newest version of LunaGrabber by smug
 
 
 
-&nbsp;   Discord Injection
+&nbsp;4.   Discord Injection
 
 &nbsp;         Sends token, password \& email on user login or when user changes password
 
 
 
-&nbsp;   System info
+&nbsp;5.   System info
 
 &nbsp;         User
 
@@ -76,7 +76,7 @@ Newest version of LunaGrabber by smug
 
 
 
-&nbsp;   General Functions
+&nbsp;6.   General Functions
 
 &nbsp;         Checks if being run in a virustotal sandbox/virtual machine
 
